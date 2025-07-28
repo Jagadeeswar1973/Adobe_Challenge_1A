@@ -107,9 +107,18 @@ Measure-Command {
 You’ll see output like:
 
 ```
-Seconds             : 8
-Milliseconds        : 320
-...
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 0
+Milliseconds      : 708
+Ticks             : 7082950
+TotalDays         : 8.1978587962963E-06
+TotalHours        : 0.000196748611111111
+TotalMinutes      : 0.0118049166666667
+TotalSeconds      : 0.708295
+TotalMilliseconds : 708.295
 ```
 
 ✅ Must be under **10 seconds** for a 50-page PDF.
